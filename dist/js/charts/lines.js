@@ -16,6 +16,6 @@ var data = {
 };
 
 var options = {
-	bezierCurve: false
+	bezierCurve: true
 }
 var myLineChart = new Chart(ctx).Line(data, options);
