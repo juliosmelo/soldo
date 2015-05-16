@@ -1,5 +1,4 @@
 var ctx = document.getElementById("chart_sales_month_line").getContext("2d")
-var myLineChart = new Chart(ctx).Line(data, options);
 var data = {
     labels: ["01", "02", "03", "04", "05", "06", "07"],
     datasets: [
@@ -19,3 +18,4 @@ var data = {
 var options = {
 	bezierCurve: false
 }
+var myLineChart = new Chart(ctx).Line(data, options);
