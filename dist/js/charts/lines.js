@@ -11,7 +11,7 @@ $(function () {
         },
         yAxis: {
             title: {
-                text: 'Temperature (°C)'
+                text: 'Quantidade'
             }
         },
         plotOptions: {
