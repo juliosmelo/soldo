@@ -23,7 +23,7 @@ $(function () {
             }
         },
         series: [{
-            name: 'Tokyo',
+            name: 'Maio',
             data: [100, 77, 70, 105, 90, 80, 40, 20, 18, 56, 80, 10]
         },
         ]
